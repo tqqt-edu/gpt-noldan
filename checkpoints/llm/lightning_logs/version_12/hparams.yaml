@@ -1,0 +1,5 @@
+dropout: 0.4
+embed_dim: 192
+lr: 0.001
+num_blocks: 5
+num_heads: 16
